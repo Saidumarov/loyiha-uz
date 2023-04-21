@@ -1,0 +1,438 @@
+
+html{
+    scroll-behavior:smooth;
+}
+
+
+
+
+body table.th.tr {
+    padding: 0;
+    margin: 0;
+}
+
+body img,
+iframe {
+    cursor: pointer;
+}
+ p:hover{
+    color: #111d7b;
+    cursor: pointer;
+ }
+
+.otaa {
+    width: 1400px;
+    height: 55px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+
+.kun img,
+p {
+    font-size: 19px;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+
+
+
+
+
+}
+
+.kun img {
+    padding: 0;
+}
+
+.fx {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 3px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 10;
+
+}
+
+.ota {
+    width: 1400px;
+    height: 1500px;
+    /* background-color: rgb(17, 255, 0); */
+    margin: 0 auto;
+    padding: 0;
+
+
+}
+
+.ung {
+    width: 400px;
+
+    height: auto;
+    /* background-color: blue; */
+    float: left;
+    /* color: white; */
+    margin-left: 20px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+
+.ppast:hover p {
+    color: white;
+}
+
+
+.chap {
+    width: 970px;
+    height: auto;
+    /* background-color: rgb(206, 23, 157); */
+    float: left;
+    margin-top: 60px;
+
+}
+
+.otachap {
+    padding-top: 10px;
+    float: left;
+
+}
+
+.otaung h1.p {
+    float: left;
+    margin-top: 10px;
+
+}
+
+.ok {
+    float: left;
+    margin-top: 280px;
+    width: 15px;
+}
+
+.vid {
+    /* background-color: rgb(82, 13, 171); */
+    width: 970px;
+    height: auto;
+
+    margin-top: 47.8px;
+
+
+}
+
+.o1 p {
+    text-align: left;
+    font-size: 18px;
+    padding-top: 30px;
+
+}
+
+.o2 p {
+    text-align: left;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.o3 p {
+    text-align: left;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.o4 p {
+    text-align: left;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.otaung h2 {
+    font-size: 28px;
+}
+
+.otaung p {
+    font-size: 20px;
+
+}
+
+.ung p {
+    padding-top: 10px;
+}
+
+.past img {
+    width: 300px;
+    height: 195px;
+    padding: 0 11.5px;
+
+}
+
+.past p {
+    text-align: left;
+}
+
+button {
+    width: 350px;
+    height: 60px;
+    font-size: 20px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    padding-top: 5px;
+    margin-top: 0;
+    border: none;
+    transition: 0.5s;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #53a6fe;
+    color: white;
+}
+
+.orta {
+    width: 1400px;
+    height: auto;
+    margin: 0 auto;
+    /* background-color: red; */
+    float: left;
+    margin-top: 10px;
+}
+
+.orta p {
+    font-size: 22px;
+}
+
+.opast {
+    width: 1419px;
+    height: auto;
+    margin: 0 auto;
+    /* background-color: blue; */
+
+    float: left;
+    margin: 0;
+
+}
+
+.past00 {
+    width: 1400px;
+    height: auto;
+    margin: 0 auto;
+
+    float: left;
+}
+
+.t1 {
+
+    display: flex;
+}
+
+.tt1 {
+    width: 690px;
+    height: 452px;
+    transition: 1s;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#if {
+    width: 690px;
+    transition: 1s;
+}
+
+#z1 {
+    cursor: pointer;
+}
+
+
+.tt1:hover #if {
+    transform: scale(1.2);
+}
+
+
+.t2 {
+    width: 690px;
+    height: 452px;
+    transition: 1s;
+    overflow: hidden;
+}
+
+.t2 #vv1 {
+    width: 690px;
+    transition: 1s;
+    /* margin-left: 60px; */
+}
+
+
+.t2:hover #vv1 {
+    transform: scale(1.2);
+}
+
+
+.v1 {
+    width: 338px;
+    height: 220px;
+    transition: 1s;
+    overflow: hidden;
+    margin-top: 10px;
+   
+}
+
+.zx1 {
+    width: 338px;
+    transition: 1s;
+    cursor: pointer;
+
+}
+
+.v1:hover .zx1 {
+    transform: scale(1.2);
+   
+
+
+}
+
+.pp {
+    position: absolute;
+    font-size: 20px;
+
+}
+
+
+.leh {
+    float: left;
+}
+
+.otab {
+    width: 1460px;
+    margin: 0 auto;
+}
+
+
+
+.ppast {
+    background-color: #17206A;
+    width: 100%;
+    height: 270px;
+    float: left;
+    color: white;
+    margin: 100px 0 0 0;
+    padding: 0;
+
+
+}
+
+.oop {
+    background-color: #111d7b;
+    width: 100%;
+    height: 25px;
+    padding-top: 5px;
+}
+
+
+
+/* play */
+
+.a1{
+    position: absolute;
+    margin: 170px  0  0 300px;
+    z-index: 8;
+}
+
+.a2 {
+    position: absolute;
+    margin: 90px  0  0 150px;
+    z-index: 8;
+}
+
+.a3 {
+    position: absolute;
+    margin: 90px  0  0 500px;
+    z-index: 8;
+}
+
+.a2 img{
+    width: 70px;
+    height: 70px;
+}
+
+
+.a3 img{
+    width: 70px;
+    height: 70px;
+}
+
+.s1{
+   
+        position: absolute;
+        margin: 170px  0  0 1000px;
+        z-index: 8;
+       
+    
+}
+
+.s1 img{
+    width: 80px;
+    height: 80px;
+    
+
+}
+
+.s1{
+   
+    position: absolute;
+    margin: 170px  0  0 1000px;
+    z-index: 8;
+   
+
+}
+
+.s2 img{
+    width: 50px;
+    height: 50px;
+    
+
+}
+
+.s2{
+   
+    position: absolute;
+    margin:     90px  0  0 850px;
+    z-index: 8;
+   
+
+}
+
+.s3 img{
+    width: 50px;
+    height: 50px;
+    
+
+}
+
+.s3{
+   
+    position: absolute;
+    margin: 90px  0  0 1200px;
+    z-index: 8;
+   
+
+}
+
+.s3:hover img {
+    transform: scale(1);
+}
+
+.ta img{
+    width: 50px;
+    height: 50px;
+    /* position: fixed; */
+    z-index: 15;
+    background-color: #17206A;
+}
+
+
+.ta{
+margin-top:150px;
+margin-left: 1350px;
+  position: fixed;
+
+}
+    
