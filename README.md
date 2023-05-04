@@ -1,0 +1,1 @@
+bajargan loyihamiz
